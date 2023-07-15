@@ -17,4 +17,4 @@ Check out [simonesestito.com](https://simonesestito.com/)
 </p>
 
 ## 📊 Some stats
-[![Simone Sestito's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonesestito&show_icons=true&theme=vue-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Simone Sestito's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonesestito&show_icons=true&theme=vue-dark&count_private=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
