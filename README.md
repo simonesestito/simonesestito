@@ -17,4 +17,5 @@ Check out [simonesestito.com](https://simonesestito.com/)
 </p>
 
 ## 📊 Some stats
-[![Simone Sestito's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonesestito&show_icons=true&theme=vue-dark&count_private=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+![Simone Sestito's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonesestito&show_icons=true&theme=vue-dark&count_private=true&hide_rank=true)
+![Simone Sestito's Most Used Relevant Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simonesestito&hide=tex,javascript,java,php&layout=compact&theme=vue-dark&count_private=true)
